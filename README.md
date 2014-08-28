@@ -20,4 +20,4 @@ Starting: E:\APPS\TeamCity\buildAgent\work\12a3bd79c15e632f\Web.UnitTests\phanto
 [17:00:30]Publishing internal artifacts
 
 
-But running throw cmd using Phantonjs is fine.
+But running through cmd using Phantonjs is fine.
